@@ -20,6 +20,9 @@ https://towardsdatascience.com/how-to-detect-objects-in-real-time-using-opencv-a
 https://stackoverflow.com/questions/63669752/building-wheel-for-opencv-python-pep-517-runs-forever
 https://github.com/opencv/opencv-python/issues/391
 
+(Problem) libcblas.so.3: cannot open shared object file: No such file or directory:
+https://stackoverflow.com/questions/53347759/importerror-libcblas-so-3-cannot-open-shared-object-file-no-such-file-or-dire
+
 How to create cascade file:
 https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e
 https://amin-ahmadi.com/cascade-trainer-gui/
