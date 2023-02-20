@@ -23,7 +23,7 @@ https://github.com/opencv/opencv-python/issues/391
 (Problem) libcblas.so.3: cannot open shared object file: No such file or directory:
 https://stackoverflow.com/questions/53347759/importerror-libcblas-so-3-cannot-open-shared-object-file-no-such-file-or-dire
 
-(Problem) Numpy
+(Problem) Numpy (Solution = pip install -U numpy)
 https://stackoverflow.com/questions/20518632/importerror-numpy-core-multiarray-failed-to-import
 
 How to create cascade file:
