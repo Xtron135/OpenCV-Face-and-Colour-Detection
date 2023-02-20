@@ -8,6 +8,7 @@ Here are the basic coding for face recognition, and colour detection.
 Location utk file haarcascade xml:
 - rpi: /home/USER/.local/lib/python3.9/site-packages/cv2/data/haarcascade_smile.xml
 - windows: C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\cv2\data
+- windows: C:\Users\xtron\AppData\Roaming\Python\Python310\site-packages\cv2\data
 
 
 ## Reference
