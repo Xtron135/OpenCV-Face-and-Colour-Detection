@@ -16,7 +16,7 @@ Location for file haarcascade xml:
 Open CV Face Detection:
 https://towardsdatascience.com/how-to-detect-objects-in-real-time-using-opencv-and-python-c1ba0c2c69c0
 
-(Problem) Building wheel for opencv-python took long time (Solution = pip install opencv-python==4.5.3.56):
+(Problem) Building wheel for opencv-python took long time (Solution = pip3 install opencv-python==4.5.3.56):
 https://stackoverflow.com/questions/63669752/building-wheel-for-opencv-python-pep-517-runs-forever
 https://github.com/opencv/opencv-python/issues/391
 
