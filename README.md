@@ -13,24 +13,24 @@ Location for file haarcascade xml:
 
 ## Reference
 
-Open CV Face Detection:
+1- Open CV installation and Face Detection:
 https://towardsdatascience.com/how-to-detect-objects-in-real-time-using-opencv-and-python-c1ba0c2c69c0
 
-(Problem) Building wheel for opencv-python took long time (Solution = pip3 install opencv-python==4.5.3.56):
+2- (Problem) Building wheel for opencv-python took long time (Solution = pip3 install opencv-python==4.5.3.56):
 https://stackoverflow.com/questions/63669752/building-wheel-for-opencv-python-pep-517-runs-forever
 https://github.com/opencv/opencv-python/issues/391
 
-(Problem) libcblas.so.3: cannot open shared object file: No such file or directory:
+3- (Problem) libcblas.so.3: cannot open shared object file: No such file or directory:
 https://stackoverflow.com/questions/53347759/importerror-libcblas-so-3-cannot-open-shared-object-file-no-such-file-or-dire
 
-(Problem) Numpy (Solution = pip install -U numpy)
+4- (Problem) Numpy (Solution = pip install -U numpy)
 https://stackoverflow.com/questions/20518632/importerror-numpy-core-multiarray-failed-to-import
 
-How to create cascade file:
+5- How to create cascade file:
 https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e
 https://amin-ahmadi.com/cascade-trainer-gui/
 
-Open CV Color Detection:
+6- Open CV Color Detection:
 https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python-opencv/
 https://www.etutorialspoint.com/index.php/328-python-opencv-specific-color-detction-from-capture-video
 https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/
