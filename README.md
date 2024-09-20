@@ -5,6 +5,16 @@ Based on opencv-python library.
 Here are the basic coding for face recognition, and colour detection.
 
 
+## Simple Tutorial (Windows)
+1 - Clone this Repo. Download or use git clone.
+
+2 - Launch windows powershell / Terminal / Command Prompt. We recommend using PowerShell.
+
+3 - Run:
+  python -m pip install --upgrade pip
+  pip3 install opencv-python
+
+
 Location for file haarcascade xml:
 - rpi: /home/USER/.local/lib/python3.9/site-packages/cv2/data/haarcascade_smile.xml
 - windows: C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\cv2\data
