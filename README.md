@@ -12,6 +12,7 @@ Here are the basic coding for face recognition, and colour detection.
 
 3. Run:
   > python -m pip install --upgrade pip
+
   > pip3 install opencv-python
 
 4. Enter this repo folder, and it is now ready to run the example coding. Run
