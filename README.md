@@ -6,19 +6,29 @@ Here are the basic coding for face recognition, and colour detection.
 
 
 ## Simple Tutorial (Windows)
-1 - Clone this Repo. Download or use git clone.
+1. Clone this Repo. Download or use git clone. Extract this repo into a folder.
 
-2 - Launch windows powershell / Terminal / Command Prompt. We recommend using PowerShell.
+2. Launch Windows Powershell / Terminal / Command Prompt. We recommend using PowerShell.
 
-3 - Run:
-  python -m pip install --upgrade pip
-  pip3 install opencv-python
+3. Run:
+  > python -m pip install --upgrade pip
+  > pip3 install opencv-python
 
+4. Enter this repo folder, and it is now ready to run the example coding. Run
+  > python3.12 facedetect.py
+
+  You should be able to see a popup come up using your laptop webcam, highlighting your face.
+
+5. You can play around with the example coding; facedetect.py and colordetect.py. Use code editors like Thonny or Visual Studio to edit the code.
+
+6. OpenCV uses a file called a HAAR Cascade file to recognized and classify objects. There are a few example HAAR Cascade files provided alongside the installation of the OpenCV in your system. You can find it here:
 
 Location for file haarcascade xml:
 - rpi: /home/USER/.local/lib/python3.9/site-packages/cv2/data/haarcascade_smile.xml
 - windows: C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\cv2\data
 - windows: C:\Users\xtron\AppData\Roaming\Python\Python310\site-packages\cv2\data
+
+Simply change the HAAR Cascade file to change the detection criteria. You can also create your own HAAR Cascade file using third-party software to train your own recognition algorithm.
 
 
 ## Reference
