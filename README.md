@@ -11,12 +11,18 @@ Here are the basic coding for face recognition, and colour detection.
 2. Launch Windows Powershell / Terminal / Command Prompt. We recommend using PowerShell.
 
 3. Run:
-  > python -m pip install --upgrade pip
+  ```ShellSession
+  python -m pip install --upgrade pip
+  ```
 
-  > pip3 install opencv-python
+  ```ShellSession
+  pip3 install opencv-python
+  ```
 
 4. Enter this repo folder, and it is now ready to run the example coding. Run
-  > python3.12 facedetect.py
+  ```ShellSession
+  python3.12 facedetect.py
+  ```
 
   You should be able to see a popup come up using your laptop webcam, highlighting your face.
 
