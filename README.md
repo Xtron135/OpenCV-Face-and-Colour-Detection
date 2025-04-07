@@ -15,14 +15,14 @@ Here are the basic coding for face recognition, and colour detection.
   python -m pip install --upgrade pip
   ```
 
+  ```ShellSession
+  pip3 install opencv-python
+  ```
+
 [Optional] If you got "error: externally-managed-environment"
 ```ShellSession
 sudo mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MANAGED.old
 ```
-
-  ```ShellSession
-  pip3 install opencv-python
-  ```
 
 4. Enter this repo folder, and it is now ready to run the example coding. Run
   ```ShellSession
